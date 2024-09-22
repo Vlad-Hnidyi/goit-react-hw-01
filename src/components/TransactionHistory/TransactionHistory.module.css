@@ -1,0 +1,16 @@
+.table {
+  max-width: 700px;
+  text-align: center;
+  border-collapse: collapse;
+}
+.tableHead {
+  background-color: black;
+  color: white;
+}
+.table td {
+  border: 1px solid black;
+  padding: 2px 70px;
+}
+.table th {
+  border: 1px solid black;
+}
